@@ -1,0 +1,8 @@
+'nome': 'Guilherme'
+'matrícula': '1242516' 
+'idade': '25' 
+'curso': 'ADS' 
+'nome': 'Fulano'
+'matrícula': '1256721'
+'idade': '27'
+'curso': 'ADS'
