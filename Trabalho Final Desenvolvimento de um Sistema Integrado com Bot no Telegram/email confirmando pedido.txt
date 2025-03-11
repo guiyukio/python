@@ -1,0 +1,39 @@
+Assunto: Confirmação de Pedido - [Nome do Restaurante]
+
+Prezado(a) [Nome do Cliente],
+
+Agradecemos por escolher o [Nome do Restaurante]! Temos o prazer de confirmar o seu pedido.
+
+Detalhes do Pedido:
+
+Número do Pedido: [Número do Pedido]
+
+Data e Hora: [Data e Hora]
+
+Itens do Pedido:
+
+[Item 1] - [Quantidade] - [Preço]
+
+[Item 2] - [Quantidade] - [Preço]
+
+[Item 3] - [Quantidade] - [Preço]
+
+...
+
+Total: [Valor Total]
+
+Informações de Entrega:
+
+Endereço: [Endereço de Entrega]
+
+Telefone de Contato: [Telefone do Cliente]
+
+Horário de Entrega Estimado: [Horário Estimado de Entrega]
+
+Se precisar de qualquer informação adicional ou desejar fazer alguma alteração no seu pedido, por favor, entre em contato conosco pelo telefone [Número de Telefone do Restaurante] ou responda a este email.
+
+Agradecemos pela sua preferência e esperamos que desfrute da sua refeição!
+
+Atenciosamente,
+
+[Seu Nome] [Nome do Restaurante] [Endereço do Restaurante] [Telefone do Restaurante] [Email do Restaurante]
